@@ -59,3 +59,18 @@ p span {
 .italico {
     font-style: italic;
 }
+
+/* Configurações de imagens e vídeos */
+.imagem-media {
+    height: 150px;
+    width: 150px;
+}
+.imagem-5g {
+    height: 150px;
+    width: 180px;
+}
+.gif1 {
+    height: 500px;
+    width: 1200px;
+    text-align: center;
+}
