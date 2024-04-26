@@ -13,8 +13,52 @@
 
 h2{
     text-align: center;
+    font-size: 3em;
 }
 
 p{
     text-align: justify;
+    text-align: center;
+    font-size: 1em;
+}
+
+.verde-escuro{
+    background-color: #338042;
+}
+
+.verde-claro{
+    background-color: #24B340;
+}
+
+.verde-opaco{
+    background-color: #60EA80;
+}
+
+.cinza{
+    background-color: rgb(214, 212, 212);
+}
+
+.imagem1{
+    width: 250px;
+}
+
+.imagem2{
+    width: 500px;
+    
+}
+
+.primeirotexto{
+    text-align: center;
+}
+
+.quadro{
+    background-color: white;
+    border-radius: 19px 19px 19px 19px;
+    height: 250px;
+    margin: 0 100px;
+    box-shadow: rgb(119, 119, 119) 10px 10px 10px;
+}
+
+.texto-quadro{
+    margin: 0px;
 }
