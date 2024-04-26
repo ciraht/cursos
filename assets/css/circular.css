@@ -1,8 +1,13 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+.senai {
+    width: 300px;
+    height: 84px;
+}
 .vermelhao{
     background-color: #F28383;
 }
@@ -24,7 +29,10 @@
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 4px;
 }
-
+.btn:hover {
+    background-color: #F47D7D;
+    border-color: #F47D7D;
+}
 h2{
     text-align: center;
     font-size: 3em;
@@ -74,7 +82,7 @@ p{
 .quadro{
     background-color: white;
     border-radius: 19px 19px 19px 19px;
-    height: 370px;
+    height: 380px;
     margin: 0 100px;
     box-shadow: rgb(119, 119, 119) 10px 10px 10px;
     text-align: center;
@@ -88,4 +96,13 @@ p{
     background-image: url(../img/fundo_economia.png);
     background-size: cover;
     background-position: center;
+}
+.logo2 {
+    width: 324px;
+    height: 84px;
+}
+.fim {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    letter-spacing: 4px;   
 }
